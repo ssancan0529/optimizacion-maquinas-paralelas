@@ -15,3 +15,6 @@ Python, PuLP, CBC y SQL Server. El código incluye relajación de variables y re
 4. Ejecutar `python PROYECTO_OP.py`.
 
 El programa muestra estado del solver, objetivo y trabajos programados. No se adjuntan resultados verificados de ejecución.
+
+## Script SQL
+Crear primero la base PROYECTO_PRUEBA y ejecutar `SQLQuery11.sql` en una base de pruebas: elimina y recrea las tablas Parametros y Trabajos e inserta el ejemplo de dos trabajos.
